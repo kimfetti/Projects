@@ -45,7 +45,7 @@ def make_table( mydict, sortby ):
 
 
 def wiki_char_percent():
-	'''Retrieve character frequency percent from Wikipedia'''
+	'''Retrieve character frequency percent from Wikipedia via web scraping'''
 	import urllib2
 	from bs4 import BeautifulSoup
 	
