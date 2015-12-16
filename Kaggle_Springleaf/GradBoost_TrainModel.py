@@ -26,7 +26,7 @@ f         = 'Data/train.csv'
 num_lines = sum( 1 for l in open(f) )
 size      = int( num_lines/1.25 )  #Sample including 80% training data, memory constraints
 skip_idx  = random.sample( range(1, num_lines), num_lines - size )
-train     = pd.read_csv( f )
+train     = pd.read_csv( f, skiprows=skip_idx )
 y         = train.target
 train     = train.drop( ['target'], axis=1 )
 
