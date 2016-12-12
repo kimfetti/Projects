@@ -75,7 +75,6 @@ def main():
 
     if option == 'count':
         #Plot resulting bar graph of character frequency (by doc count)
-        plt.figure()
         ax = mytable.plot( x = 'letter', y=['lower_count', 'upper_count'], 
                           		 kind='bar', stacked=True, color = [blue, ltblue] )
         ax.set_xlabel( 'Character' )
@@ -85,24 +84,23 @@ def main():
 
     elif option == 'wiki':
         #Import wiki character frequencies and build table (sorted by wiki)
-        wiki_percent = wiki_char_percent()
-	    mytable['wiki'] = pd.Series( wiki_percent ).transpose() * sum( mytable.total ) / 100
+		wiki_percent = wiki_char_percent()
+		mytable['wiki'] = pd.Series( wiki_percent ).transpose() * sum( mytable.total ) / 100
 
-	    #Plot resulting bar graph of character frequency (by wiki count)
-	    mytable.sort( 'wiki', inplace=True, ascending=False )
-	    plt.figure()
-	    ax = mytable.plot( x = 'letter', y=['lower_count', 'upper_count'],
-	                      		kind='bar', stacked=True, color = [blue, ltblue] )
-	    mytable.plot( x = 'letter', y='wiki', ax = ax, style='r' )
-	    ax.lines[-1].set_linewidth(4)
-	    ax.set_xlabel( 'Character' )
-	    ax.set_ylabel( 'Count' )
-	    plt.legend( labels=['English Language', 'Lowercase', 'Uppercase'] )
-	    plt.show()
+		#Plot resulting bar graph of character frequency (by wiki count)
+		mytable.sort( 'wiki', inplace=True, ascending=False )
+		ax = mytable.plot( x = 'letter', y=['lower_count', 'upper_count'],
+		                  		kind='bar', stacked=True, color = [blue, ltblue] )
+		mytable.plot( x = 'letter', y='wiki', ax = ax, style='r' )
+		ax.lines[-1].set_linewidth(4)
+		ax.set_xlabel( 'Character' )
+		ax.set_ylabel( 'Count' )
+		plt.legend( labels=['English Language', 'Lowercase', 'Uppercase'] )
+		plt.show()
     
     else:
-	    print('Please choose "count" or "wiki" option to sort table.')
-	    sys.exit(0)
+		print('Please choose "count" or "wiki" option to sort table.')
+		sys.exit(0)
 		
 		
 if __name__ == '__main__':
