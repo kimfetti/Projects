@@ -6,10 +6,10 @@ For more problems like this, check out [Fifty Challenging Problems in Probabilit
 
 You should be able to compute analytic answers for each of these, though you will likely want to evaluate your final expressions with a calculator.  You can ignore leap days for all four questions.
 
-1.  **Birthday Pairings.** 
+1.  **Birthday Pairings.**  
 You are throwing a party and inviting random people you have never met.  What's the fewest number of people you need to invite to have at least 50% probability that two strangers will have the same birthday?  (Birth year need not match.)
 
-1.  **Finding Your Birthmate.** 
+1.  **Finding Your Birthmate.**  
 *You* want to find someone whose birthday matches yours.  How many strangers do you need to ask to have a 50-50 chance of matching?
 
 1. **Relating the Birthday Pairings and Birthmate Problems.**  
