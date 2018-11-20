@@ -13,7 +13,7 @@ You are throwing a party and inviting random people you have never met.  What's 
 *You* want to find someone whose birthday matches yours.  How many strangers do you need to ask to have a 50-50 chance of matching?
 
 1. **Relating the Birthday Pairings and Birthmate Problems.**  
-If *r* people compare birthdays in the pairing problem, the probability is *P_r* that at least 2 have the same birthday.  Letting *n* be the number of strangers you ask in the personal birthmate problem, what should *n* beto make your probabiliy of success approximately *P_r*?
+If *r* people compare birthdays in the pairing problem, the probability is *P_r* that at least 2 have the same birthday.  Letting *n* be the number of strangers you ask in the personal birthmate problem, what should *n* be to make your probabiliy of success approximately *P_r*?
 
 1. **Birthday Holidays.**  
 An up-and-coming tech start-up has developed a novel time-off policy:  the CEO gives all the workers a holiday whenever one of them has a birhtday.  Other than these birthday-holidays, they are expected to work 365 days a year.  The CEO wants to maximize the expected number of total man-days worked per year at the company.  How many people should the CEO hire? _(Note: the CEO's birthday is not considered a holiday.)_
