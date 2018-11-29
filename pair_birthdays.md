@@ -4,7 +4,7 @@ It's time to celebrate birthdays by doing some probability--yay!  If you haven't
 
 For more problems like this, check out [Fifty Challenging Problems in Probability with Solutions](https://www.amazon.com/Challenging-Problems-Probability-Solutions-Mathematics/dp/0486653552/). (These are problems #31 - 34... with updated wording.)
 
-You should be able to compute analytic answers for each of these, though you will want to eventually use code to arrive at final numbers.  You can ignore leap days for all four questions.
+You should be able to compute analytic expressions for each of these, though you will want to eventually use code to arrive at numerical answers.  You can ignore leap days for all four questions.
 
 1.  **Birthday Pairings.**  
 You are throwing a party and inviting random people you have never met.  What's the fewest number of people you need to invite to have at least 50% probability that two strangers will have the same birthday?  (Birth year need not match.)
