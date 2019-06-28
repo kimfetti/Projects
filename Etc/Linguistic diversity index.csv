@@ -1,0 +1,201 @@
+Country,Amount,Date
+"Papua New Guinea","0.99",2009
+"Vanuatu","0.972",2009
+"Tanzania","0.965",2009
+"Solomon Islands","0.965",2009
+"Central African Republic","0.96",2009
+"Chad","0.95",2009
+"Democratic Republic of the Congo","0.948",2009
+"Cameroon","0.942",2009
+"India","0.93",2009
+"Mozambique","0.929",2009
+"Uganda","0.928",2009
+"Gabon","0.919",2009
+"Liberia","0.912",2009
+"Kenya","0.901",2009
+"Angola","0.901",2009
+"East Timor","0.897",2009
+"Togo","0.897",2009
+"Mali","0.876",2009
+"Nigeria","0.87",2009
+"South Africa","0.869",2009
+"Zambia","0.855",2009
+"Guinea-Bissau","0.853",2009
+"Philippines","0.849",2009
+"Indonesia","0.846",2009
+"Bhutan","0.846",2009
+"Ethiopia","0.843",2009
+"Sierra Leone","0.817",2009
+"Namibia","0.808",2009
+"Ghana","0.805",2009
+"Iran","0.797",2009
+"Federated States of Micronesia","0.792",2009
+"Suriname","0.788",2009
+"Benin","0.785",2009
+"United Arab Emirates","0.777",2009
+"Burkina Faso","0.773",2009
+"Senegal","0.772",2009
+"Pakistan","0.762",2009
+"Malaysia","0.758",2009
+"Thailand","0.753",2009
+"Eritrea","0.749",2009
+"Guinea","0.748",2009
+"Gambia","0.748",2009
+"Singapore","0.748",2009
+"Nepal","0.742",2009
+"Belgium","0.734",2009
+"Afghanistan","0.732",2009
+"Kazakhstan","0.701",2009
+"Trinidad and Tobago","0.696",2009
+"Belize","0.693",2009
+"Oman","0.693",2009
+"Guatemala","0.691",2009
+"Bolivia","0.68",2009
+"Laos","0.678",2009
+"Kyrgyzstan","0.67",2009
+"Jordan","0.666",2009
+"Israel","0.665",2009
+"Bahrain","0.663",2009
+"Norway","0.657",2009
+"Madagascar","0.656",2009
+"Niger","0.646",2009
+"Mauritius","0.641",2009
+"Saudi Arabia","0.609",2009
+"Qatar","0.608",2009
+"Fiji","0.607",2009
+"Nauru","0.596",2009
+"Latvia","0.595",2009
+"Italy","0.593",2009
+"Djibouti","0.592",2009
+"Moldova","0.589",2009
+"Sudan","0.587",2009
+"Yemen","0.579",2009
+"Georgia","0.576",2009
+"Andorra","0.574",2009
+"Republic of Macedonia","0.566",2009
+"Kuwait","0.556",2009
+"Comoros","0.551",2009
+"Canada","0.549",2009
+"Cayman Islands","0.547",2009
+"Switzerland","0.547",2009
+"Austria","0.54",2009
+"Zimbabwe","0.526",2009
+"Monaco","0.521",2009
+"Burma","0.521",2009
+"Malawi","0.519",2009
+"Egypt","0.509",2009
+"Syria","0.503",2009
+"Luxembourg","0.498",2009
+"Gibraltar","0.498",2009
+"San Marino","0.494",2009
+"Ukraine","0.492",2009
+"China","0.491",2009
+"Iraq","0.484",2009
+"Tajikistan","0.482",2009
+"Estonia","0.476",2009
+"Morocco","0.466",2009
+"Brunei","0.456",2009
+"Equatorial Guinea","0.453",2009
+"Botswana","0.444",2009
+"Spain","0.438",2009
+"Uzbekistan","0.428",2009
+"Bosnia and Herzegovina","0.416",2009
+"Belarus","0.397",2009
+"Netherlands","0.389",2009
+"Sao Tome and Principe","0.389",2009
+"Aruba","0.387",2009
+"Turkmenistan","0.386",2009
+"The Bahamas","0.386",2009
+"Cook Islands","0.379",2009
+"Peru","0.376",2009
+"Azerbaijan","0.373",2009
+"Cyprus","0.366",2009
+"Libya","0.362",2009
+"Serbia","0.359",2009
+"United States","0.353",2009
+"Paraguay","0.347",2009
+"Lithuania","0.339",2009
+"Bangladesh","0.332",2009
+"Mongolia","0.331",2009
+"Panama","0.324",2009
+"Dominica","0.313",2009
+"Algeria","0.313",2009
+"Sri Lanka","0.313",2009
+"Slovakia","0.307",2009
+"Turkey","0.289",2009
+"Russia","0.283",2009
+"France","0.272",2009
+"Netherlands Antilles","0.266",2009
+"Ecuador","0.264",2009
+"Lesotho","0.26",2009
+"Albania","0.257",2009
+"Vietnam","0.234",2009
+"Swaziland","0.228",2009
+"Bulgaria","0.224",2009
+"Ireland","0.223",2009
+"Argentina","0.213",2009
+"Palestine","0.208",2009
+"Germany","0.189",2009
+"Somalia","0.179",2009
+"Greece","0.175",2009
+"Slovenia","0.174",2009
+"Armenia","0.174",2009
+"Mauritania","0.172",2009
+"Romania","0.168",2009
+"Sweden","0.167",2009
+"British Virgin Islands","0.167",2009
+"Lebanon","0.161",2009
+"Hungary","0.158",2009
+"Cambodia","0.157",2009
+"Turks and Caicos Islands","0.145",2009
+"Finland","0.14",2009
+"Anguilla","0.14",2009
+"Tuvalu","0.139",2009
+"United Kingdom","0.139",2009
+"Mexico","0.135",2009
+"Liechtenstein","0.128",2009
+"Australia","0.126",2009
+"New Zealand","0.102",2009
+"Uruguay","0.092",2009
+"Barbados","0.091",2009
+"Croatia","0.087",2009
+"Nicaragua","0.081",2009
+"Guyana","0.078",2009
+"Palau","0.077",2009
+"Niue","0.071",2009
+"Cape Verde","0.07",2009
+"Czech Republic","0.069",2009
+"Seychelles","0.067",2009
+"Grenada","0.064",2009
+"Poland","0.06",2009
+"Antigua and Barbuda","0.057",2009
+"Honduras","0.056",2009
+"Tokelau","0.054",2009
+"Dominican Republic","0.053",2009
+"Denmark","0.051",2009
+"Costa Rica","0.05",2009
+"Chile","0.034",2009
+"Kiribati","0.033",2009
+"Brazil","0.032",2009
+"Colombia","0.03",2009
+"Japan","0.028",2009
+"Marshall Islands","0.027",2009
+"Venezuela","0.026",2009
+"Montserrat","0.026",2009
+"Portugal","0.022",2009
+"Saint Lucia","0.02",2009
+"Iceland","0.019",2009
+"Malta","0.016",2009
+"Tonga","0.014",2009
+"Tunisia","0.012",2009
+"Jamaica","0.011",2009
+"Maldives","0.01",2009
+"Saint Kitts and Nevis","0.01",2009
+"Saint Vincent and the Grenadines","0.009",2009
+"El Salvador","0.004",2009
+"Rwanda","0.004",2009
+"Burundi","0.004",2009
+"South Korea","0.003",2009
+"Samoa","0.002",2009
+"Cuba","0.001",2009
+"Haiti","0.0",2009
