@@ -186,10 +186,10 @@ Samoa,WSM,2009.0,0.002
 Cuba,CUB,2009.0,0.001
 Haiti,HTI,2009.0,0.0
 American Samoa,ASM,,
-"Bahamas, The",BHM,,
+"Bahamas, The",BHM,2009.0,0.386
 Bermuda,BMU,,
 Cabo Verde,CPV,,
-"Congo, Democratic Republic of the",COD,,
+"Congo, Democratic Republic of the",COD,2009.0,0.948
 "Congo, Republic of the",COG,,
 Cote d'Ivoire,CIV,,
 Curacao,CUW,,
@@ -204,7 +204,7 @@ Hong Kong,HKG,,
 Isle of Man,IMN,,
 Jersey,JEY,,
 "Korea, North",PRK,,
-"Korea, South",KOR,,
+"Korea, South",KOR,2009.0,0.003
 Kosovo,KSV,,
 Macau,MAC,,
 Macedonia,MKD,,
